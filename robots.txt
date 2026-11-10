@@ -19,4 +19,4 @@ Allow: /
 User-agent: Yeti
 Allow: /
 
-Sitemap: https://kimsahoon.github.io/sheng-site/sitemap.xml
+Sitemap: https://sheng-sokcho.github.io/sitemap.xml
